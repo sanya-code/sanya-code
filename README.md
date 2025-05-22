@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋🌸 Hi, I'm Sanya.
 
-<!--
-**sanya-code/sanya-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer interested in cute Front End Web Development, Python, AI/ML, and creative tech. I blend functionality with design to make projects that reflect my personality and skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 🎓 MCA student (2nd Semester)
+- 🌱 Learning: MERN Stack, Python, DSA, AI/ML
+- 🎯 Goal: Become a skilled full-stack Python developer with a creative edge
+- 📚 Also interested in journalism, design, and storytelling
+
+---
+
+## 🚀 Tech Stack
+
+- **Languages**: Python, JavaScript
+- **Web**: HTML, CSS, React.js, Node.js, 
+- **Database**: MySQL
+- **Tools**: Git, GitHub, VS Code, Figma
+- **Currently Exploring**: Data Science
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 💌 Email: [sanyasharrma@gmail.com](#)
+- 🌐 Portfolio: [comingsoon.com](#)
+- 📷 Instagram: [theskiesgold](#)
+
+---
+
+> “Creativity + Code = Magic 💻✨”

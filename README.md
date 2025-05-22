@@ -23,12 +23,6 @@ Welcome to my GitHub! I'm a passionate developer interested in cute Front End We
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - 💌 Email: [sanyasharrma@gmail.com](#)

@@ -27,8 +27,7 @@ Welcome to my GitHub! I'm a passionate developer interested in cute Front End We
 
 - 💌 Email: [sanyasharrma@gmail.com](#)
 - 🌐 Portfolio: [comingsoon.com](#)
-- 📷 Instagram: [theskiesgold](#)
-
+- 
 ---
 
 > “Creativity + Code = Magic 💻✨”

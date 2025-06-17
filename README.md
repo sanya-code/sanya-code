@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer interested in cute Front End We
 ## 📌 About Me
 
 - 🎓 MCA student (2nd Semester)
-- 🌱 Learning: MERN Stack, Python, DSA, AI/ML
+- 🌱 Learning: Python, DSA, AI/ML
 - 🎯 Goal: Become a skilled full-stack Python developer with a creative edge
 - 📚 Also interested in journalism, design, and storytelling
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate developer interested in cute Front End We
 ## 🚀 Tech Stack
 
 - **Languages**: Python, JavaScript
-- **Web**: HTML, CSS, React.js, Node.js, 
+- **Web**: HTML, CSS
 - **Database**: MySQL
 - **Tools**: Git, GitHub, VS Code, Figma
 - **Currently Exploring**: Data Science
